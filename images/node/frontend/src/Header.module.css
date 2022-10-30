@@ -1,0 +1,19 @@
+.Header {
+	--height: 30px;
+	display: flex;
+	justify-content: space-between;
+	padding: 5px;
+
+	height: var(--height);
+	width: 100%;
+}
+
+.left {
+	height: 100%;
+
+}
+
+.right {
+	height: 100%;
+
+}
