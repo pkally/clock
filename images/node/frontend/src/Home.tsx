@@ -58,10 +58,6 @@ function Home() {
 			</div>
 
 			<div className={styles.bottom}>
-				<div className={styles.searchContainer}>
-					<input className={styles.searchInput} type="search" placeholder="Search..."/>
-				</div>
-				
 				<table className={styles.clocksTable}>
 					<tr className={styles.tableHeader}>
 						<th>Zone</th>

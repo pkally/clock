@@ -24,24 +24,3 @@
 
 .bottom {
 }
-
-.searchContainer {
-	border: 1px solid #000000;
-	border-radius: 3px;
-	width: 200px;
-	padding: 2px;
-	display: flex;
-	align-items: center;
-}
-.searchContainer:focus {
-	outline: blue solid 5px;
-}
-.searchInput {
-	border: none;
-	height: 100%;
-	width: 100%;
-	font-size: 12px;
-}
-.searchInput:focus {
-	outline: none;
-}
