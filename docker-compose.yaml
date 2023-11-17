@@ -13,6 +13,5 @@ services:
     build: images/postgres/
     container_name: postgres-clock
     network_mode: host
-    env_file: postgres.env
 #    ports:
 #      - 5432/tcp
